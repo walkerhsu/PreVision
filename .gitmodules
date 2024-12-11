@@ -1,0 +1,3 @@
+[submodule "YOLO-World/third_party/mmyolo"]
+	path = YOLO-World/third_party/mmyolo
+	url = https://github.com/onuralpszr/mmyolo.git
