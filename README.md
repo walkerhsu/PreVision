@@ -1,5 +1,7 @@
 # PREVISION
 
+Prevision is a project that aims to enhance perception in autonomous driving. It involves fine-tuning LLaVA with LoRA and integrating YOLO and the Depth Anything model to improve the object detection and overall image QA accuracy.
+
 <img width="1587" height="2245" alt="DLCV-Final" src="https://github.com/user-attachments/assets/5175f42f-0109-43e1-a118-78bdba8b91cc" />
 
 # How to run your code?
